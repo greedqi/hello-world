@@ -1,2 +1,2 @@
 # hello-world
-just another project
+hello my name is siqi li nice to meet you,it is a good bagin in github
